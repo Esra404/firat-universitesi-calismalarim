@@ -4,6 +4,7 @@ int main(){
     printf("lütfen yaşınızı giirniz");
     int yas;
     scanf("%d",&yas);
+    // hey
     if(yas>=18){
         printf("erişkinsiniz oy kullanabilirsiniz");
  
