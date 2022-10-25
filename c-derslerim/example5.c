@@ -5,7 +5,7 @@ int main(){
     int yas;
     scanf("%d",&yas);
     // hey
-    if(yas>=18){
+    if(yas>=18){//iii
         printf("erişkinsiniz oy kullanabilirsiniz");
  
     }
